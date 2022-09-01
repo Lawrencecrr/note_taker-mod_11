@@ -1,6 +1,11 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "text": "new",
+        "title": "new",
+        "tip_id": "9ebe13a2-541b-4b08-8a34-e62ef537fc29"
     }
 ]
